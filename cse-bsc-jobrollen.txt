@@ -1,0 +1,76 @@
+Hier sind die Job-Rollen von **sehr passend** zu **weniger passend** für das CSE-Studium:
+
+## Sehr passend (⭐⭐⭐⭐⭐)
+- **Research Assistant/Wissenschaftliche Hilfskraft**
+- **Scientific Programmer**
+- **Computational Engineer**
+- **Simulation Engineer**
+- **Numerical Analyst**
+
+## Sehr gut passend (⭐⭐⭐⭐)
+- **CFD Engineer (Computational Fluid Dynamics)**
+- **Finite Element Analyst**
+- **Algorithm Developer**
+- **Mathematical Modeler**
+- **Machine Learning Engineer (Junior)**
+
+## Gut passend (⭐⭐⭐)
+- **Software Engineer (Scientific Computing)**
+- **Data Scientist**
+- **Quantitative Analyst**
+- **Statistical Programmer**
+- **CAD/CAE Engineer**
+
+## Mäßig passend (⭐⭐)
+- **Software Developer/Programmer**
+- **Data Analyst**
+- **Systems Analyst**
+- **Technical Consultant**
+- **Process Optimization Analyst**
+
+## Weniger passend (⭐)
+- **Business Intelligence Analyst**
+- **Technical Sales Engineer**
+- **IT Support Specialist**
+
+**Fokus**: Die Top-Rollen (⭐⭐⭐⭐⭐) bieten direkten Bezug zu numerischen Methoden, wissenschaftlicher Programmierung und mathematischer Modellierung - genau das, was Sie im CSE-Studium intensiv brauchen werden.
+
+-----------------------------------------------
+
+Hier die Job-Titel, sortiert von am besten passend bis am wenigsten passend für einen BSc in Computational Science & Engineering:
+
+1. **Computational Scientist**
+   Direktes Anwenden und Entwickeln numerischer Simulationen für physikalische und technische Fragestellungen.
+
+2. **Scientific Programmer / Softwareentwickler für Simulation**
+   Implementierung und Optimierung wissenschaftlicher Algorithmen in C/C++, Fortran oder Python.
+
+3. **High Performance Computing (HPC) Engineer**
+   Parallelisierung (MPI, OpenMP, CUDA) und Deployment auf Cluster- und GPU-Systemen.
+
+4. **Research Engineer / Forschungsingenieur**
+   Mitarbeit in Forschungsprojekten, Prototyping neuer Methoden und Veröffentlichung wissenschaftlicher Ergebnisse.
+
+5. **Data Scientist**
+   Datenanalyse und statistische Modellierung mit Methoden aus Stochastik und Machine Learning.
+
+6. **Machine Learning Engineer**
+   Entwicklung und Deployment von ML-Modellen (z. B. Bildverarbeitung, Vorhersagen) in Python-Frameworks.
+
+7. **Produktentwickler CAE (Computer-Aided Engineering)**
+   Entwicklung von Simulationstools oder Plugins für CAD/CAE-Software in Industrie und Forschung.
+
+8. **Consultant für Technische Simulation**
+   Beratung und Implementierung numerischer Simulationen bei Industriepartnern (Automotive, Luftfahrt, Energie).
+
+9. **Quantitativer Analyst (Quant)**
+   Modellierung und Simulation finanzieller Risiken und Derivate mit stochastischen Methoden.
+
+10. **Bioinformatiker / Computational Chemist**
+    Anwendung numerischer Methoden in Biologie und Chemie, z. B. Molekulardynamik oder Wirkstoffdesign.
+
+11. **Systemprogrammierer / Systems Engineer**
+    Hardware-nahe Softwareentwicklung und Architekturdesign, z. B. für Performance-kritische Komponenten.
+
+12. **Embedded Systems Engineer**
+    Programmierung und Optimierung von eingebetteten Systemen mit engem Hardwarebezug.
