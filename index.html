@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section h2 {
+            color: #555;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+        
+        .job-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .job-link {
+            display: block;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            background: white;
+        }
+        
+        .job-link:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        }
+        
+        .job-link img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>JobHub</h1>
+        
+        <!-- LinkedIn -->
+        <div class="section">
+            <h2>LinkedIn</h2>
+            <div class="job-grid">
+                <a href="https://www.linkedin.com/jobs/collections/recommended/" target="_blank" class="job-link">
+                    <img src="screenshots/linkedin-recommended.png" alt="LinkedIn Empfohlene Jobs">
+                </a>
+            </div>
+        </div>
+        
+        <!-- Informatik/Computer Science -->
+        <div class="section">
+            <h2>Informatik / Computer Science</h2>
+            <div class="job-grid">
+                <!-- Indeed Allgemein -->
+                <a href="https://ch.indeed.com/jobs?q=&l=Z%C3%BCrich%2C+ZH&from=searchOnHP%2Cwhereautocomplete&vjk=da8560197f0cdb56" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-all-zurich.png" alt="Indeed Zürich Allgemein">
+                </a>
+                
+                <!-- Indeed Computer Science -->
+                <a href="https://ch.indeed.com/jobs?q=Computer%20Science&l=Z%C3%BCrich%2C%20ZH&radius=25&from=searchOnDesktopSerp" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-computer-science.png" alt="Indeed Computer Science">
+                </a>
+                
+                <!-- Indeed Informatik -->
+                <a href="https://ch.indeed.com/jobs?q=Informatik&l=Z%C3%BCrich%2C%20ZH&radius=25&from=searchOnDesktopSerp" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-informatik.png" alt="Indeed Informatik">
+                </a>
+                
+                <!-- Jobs.ch Allgemein -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-all.png" alt="Jobs.ch Zürich Allgemein">
+                </a>
+                
+                <!-- Jobs.ch Computer Science -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=computer%20science" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-computer-science.png" alt="Jobs.ch Computer Science">
+                </a>
+                
+                <!-- Jobs.ch Informatik -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=informatik" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-informatik.png" alt="Jobs.ch Informatik">
+                </a>
+            </div>
+        </div>
+        
+        <!-- BWL/Wirtschaft -->
+        <div class="section">
+            <h2>BWL / Wirtschaft</h2>
+            <div class="job-grid">
+                <!-- Indeed Business Administration -->
+                <a href="https://ch.indeed.com/jobs?q=business%20administration&l=Z%C3%BCrich%2C%20ZH&radius=25&from=searchOnDesktopSerp%2Cwhatautocomplete%2CwhatautocompleteSourceStandard" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-business-administration.png" alt="Indeed Business Administration">
+                </a>
+                
+                <!-- Indeed Betriebswirtschaft -->
+                <a href="https://ch.indeed.com/jobs?q=betriebswirtschaft&l=Z%C3%BCrich%2C%20ZH&radius=25&from=searchOnDesktopSerp" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-betriebswirtschaft.png" alt="Indeed Betriebswirtschaft">
+                </a>
+                
+                <!-- Indeed Wirtschaft -->
+                <a href="https://ch.indeed.com/jobs?q=wirtschaft&l=Z%C3%BCrich%2C+ZH&radius=25&from=searchOnDesktopSerp" target="_blank" class="job-link">
+                    <img src="screenshots/indeed-wirtschaft.png" alt="Indeed Wirtschaft">
+                </a>
+                
+                <!-- Jobs.ch Business Administration -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=business%20administration" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-business-administration.png" alt="Jobs.ch Business Administration">
+                </a>
+                
+                <!-- Jobs.ch Betriebswirtschaft -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=betriebswirtschaft" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-betriebswirtschaft.png" alt="Jobs.ch Betriebswirtschaft">
+                </a>
+                
+                <!-- Jobs.ch Wirtschaft -->
+                <a href="https://www.jobs.ch/de/stellenangebote/?region=19&term=wirtschaft" target="_blank" class="job-link">
+                    <img src="screenshots/jobs-ch-wirtschaft.png" alt="Jobs.ch Wirtschaft">
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
